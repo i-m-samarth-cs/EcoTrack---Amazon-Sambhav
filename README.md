@@ -1,4 +1,4 @@
-# EcoTrack - Environment-Friendly Logistics Mobile Application using Flutter
+# EcoTrack - Environment-Friendly Logistics Mobile Application using Flutter.
 
 
 A Flutter-based mobile application designed to revolutionize logistics by integrating eco-friendly practices such as QR-code-based invoicing, reusable packaging systems, and AR-enabled virtual try-on, all while reducing operational costs and promoting sustainability.
