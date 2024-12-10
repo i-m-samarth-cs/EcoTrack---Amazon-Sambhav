@@ -78,7 +78,6 @@ Cost-Effective: Minimizes operational and logistics costs.
 Convenience: QR codes and AR try-ons enhance user experience.
 Sustainability Impact: Encourages eco-conscious behavior among users and companies.
 
-
 🤝 Contributing
 We welcome contributions to improve the application! Here's how you can get started:
 
